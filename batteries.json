@@ -174,12 +174,6 @@
         },
         {
           "folded": true,
-          "name": "ValidMove",
-          "type": "boolean",
-          "value": false
-        },
-        {
-          "folded": true,
           "name": "TestID",
           "type": "number",
           "value": 0
